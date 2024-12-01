@@ -1,0 +1,15 @@
+{
+  "C_Cpp.default.compilerPath": "gcc",
+  "files.associations": {
+    "*.embeddedhtml": "html",
+    "map": "cpp",
+    "*.tcc": "cpp",
+    "unordered_map": "cpp",
+    "fstream": "cpp",
+    "istream": "cpp",
+    "numeric": "cpp",
+    "ostream": "cpp",
+    "sstream": "cpp",
+    "set": "cpp"
+  }
+}
